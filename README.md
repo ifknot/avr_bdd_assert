@@ -2,7 +2,8 @@
 C++ compact string free behaviour reporting 
 
 Combining concepts from behavior-driven development (BDD) with the Barr Group web article 
-[How to Define Your Own assert Macro for Embedded Systems](https://barrgroup.com/embedded-systems/how-to/define-assert-macro
+[How to Define Your Own assert Macro for Embedded Systems](https://barrgroup.com/embedded-systems/how-to/define-assert-macro)
+
 It is a combination of comments for the BDD and REQUIRE macro generating 32 bit error/reporting codes based on software version, file id and line number
 
 ## example
