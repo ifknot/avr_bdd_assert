@@ -1,0 +1,3 @@
+[submodule "avr_uart_minimal"]
+	path = avr_uart_minimal
+	url = https://github.com/ifknot/avr_uart_minimal.git
